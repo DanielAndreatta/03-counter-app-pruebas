@@ -47,5 +47,5 @@ export default CounterApp;
 
 CounterApp.propTypes = {
 
-    value: PropTypes.number.isRequired
+    value: PropTypes.number
 }
